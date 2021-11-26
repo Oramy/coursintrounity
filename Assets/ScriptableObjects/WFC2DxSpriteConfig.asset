@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09f1e1a3d1ba09c4a97006fde28173c2, type: 3}
+  m_Name: WFC2DxSpriteConfig
+  m_EditorClassIdentifier: 
+  allStates:
+  - {fileID: 21300000, guid: bfd7f9f783844f142a0784a7aea1f410, type: 3}
+  - {fileID: 21300000, guid: 2dcb24300621c1f40a5ccf4612635825, type: 3}
+  - {fileID: 21300000, guid: e2b076a6d2a3fa946be007417aac850c, type: 3}
+  - {fileID: 21300000, guid: 4be7dc19a0ee5464ea8798661f23b5c5, type: 3}
+  - {fileID: 21300000, guid: f03c91a2a3c9662478ca1723e74f9a7e, type: 3}
+  neighborhood: {fileID: 11400000, guid: c9a41ab6868890a4f8a546df9c82a26c, type: 2}
+  compatibilityRules: {fileID: 11400000, guid: 2b39e185c2e85aa4093f8bda49457428, type: 2}
+  defaultPosition: {x: 5, y: 5}
